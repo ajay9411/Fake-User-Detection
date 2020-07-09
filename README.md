@@ -1,1 +1,1 @@
-# Fake user profile detection Using Machine Learning
+# Fake User Detection Using Machine Learning
